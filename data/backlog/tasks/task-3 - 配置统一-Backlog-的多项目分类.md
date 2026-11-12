@@ -4,7 +4,7 @@ title: 配置统一 Backlog 的多项目分类
 status: Done
 assignee: []
 created_date: '2026-11-12T14:02:00Z'
-updated_date: '2026-11-12T14:03:00Z'
+updated_date: '2026-11-12T14:13:00Z'
 labels:
   - backlog
   - project-configuration
@@ -36,6 +36,8 @@ ordinal: 3000
 
 <!-- SECTION:NOTES:BEGIN -->
 已通过 CLI 创建带 project=engine-data 的临时任务并用 --project engine-data 筛选；临时任务 TASK-4 已归档。当前嵌套任务库在读取其它分支时会输出路径水合警告，但当前分支的配置、任务编辑和筛选均成功。
+
+TASK-5 已按用户决定撤回多项目分类：已移除项目配置并清空既有任务归属；TASK-4 验证任务已删除。
 <!-- SECTION:NOTES:END -->
 
 ## Final Summary
