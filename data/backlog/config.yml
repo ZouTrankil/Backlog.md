@@ -2,6 +2,7 @@ project_name: "数据任务"
 default_status: "To Do"
 statuses: ["To Do", "In Progress", "Done"]
 labels: []
+projects: ["engine-data", "back-monitor", "channel", "questdb-infra"]
 date_format: yyyy-mm-dd
 max_column_width: 20
 auto_open_browser: true

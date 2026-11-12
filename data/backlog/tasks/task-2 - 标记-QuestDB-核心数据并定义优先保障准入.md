@@ -4,7 +4,7 @@ title: 标记 QuestDB 核心数据并定义优先保障准入
 status: Done
 assignee: []
 created_date: '2026-11-12T13:49:00Z'
-updated_date: '2026-11-12T13:53:00Z'
+updated_date: '2026-11-12T14:03:00Z'
 labels:
   - questdb
   - data-governance
@@ -13,6 +13,7 @@ dependencies: []
 documentation:
   - docs/questdb-本地数据现状与同步说明.md/doc-2 - QuestDB-本地数据现状与同步说明.md
 type: docs
+project: engine-data
 ordinal: 2000
 ---
 

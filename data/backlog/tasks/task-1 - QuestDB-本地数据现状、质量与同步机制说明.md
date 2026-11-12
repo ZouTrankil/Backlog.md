@@ -4,7 +4,7 @@ title: QuestDB 本地数据现状、质量与同步机制说明
 status: Done
 assignee: []
 created_date: '2026-11-12T13:37:00Z'
-updated_date: '2026-11-12T13:48:00Z'
+updated_date: '2026-11-12T14:03:00Z'
 labels:
   - questdb
   - data-governance
@@ -15,6 +15,7 @@ documentation:
   - docs\questdb-目录\doc-4 - QuestDB-运行态目录：美股与BTC对象.md
   - docs\questdb-目录\doc-5 - QuestDB-运行态目录：因子、回测与L2对象.md
 type: docs
+project: engine-data
 ordinal: 1000
 ---
 
